@@ -1,4 +1,3 @@
-
 var fs = require("fs");
 var replaceExt = require('replace-ext');
 
